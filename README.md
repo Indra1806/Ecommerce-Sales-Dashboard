@@ -2,6 +2,9 @@
 
 This project analyzes e-commerce transaction data using Python and advanced data visualization libraries like Plotly, Seaborn, and Altair. It presents interactive dashboards and rich insights into revenue trends, customer segments, product performance, and shipping patterns.
 
+![banner](https://bing.com/th/id/BCO.bbaa7026-c60a-4732-8aef-94022f46fce9.png)
+
+
 ## 📌 Key Features
 
 - Interactive choropleth map of revenue by country

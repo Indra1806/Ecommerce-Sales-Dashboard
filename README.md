@@ -20,6 +20,7 @@ This project uses a modified version of public e-commerce sales datasets sourced
 - Quantity, Amount, Revenue
 - Geographic data (City, Country)
 
+![Dashboard Preview](https://github.com/Indra1806/Ecommerce-Sales-Dashboard/blob/main/newplot.png?raw=true)
 
 
 ## 🚀 Tech Stack
